@@ -1,13 +1,13 @@
 # CALEB FAULKNER – PRODUCT DESIGNER
 ## Atlanta, GA
 
-Phone: 404-430-7598
+**Phone:** 404-430-7598
 
-Email: contact@starscope.design
+**Email:** contact@starscope.design
 
-Portfolio: [starscope.design](https://starscope.design)
+**Portfolio:** [starscope.design](https://starscope.design)
 
-Password: starscop3-eth
+**Password:** starscop3-eth
 
 
 
@@ -18,7 +18,7 @@ I like building cool products, and helping generate value for the people I work 
 
 
 ### STACK
-UX/UI Design → Figma, Framer, Adobe XD
-Graphic Design → Adobe Creative Cloud
-Motion Graphics/Interaction Design → Adobe Creative Cloud, Cinema 4D, Octane Render
-Front End Development → HTML, CSS, JavaScript
+**UX/UI Design** → Figma, Framer, Adobe XD
+**Graphic Design** → Adobe Creative Cloud
+**Motion Graphics/Interaction Design** → Adobe Creative Cloud, Cinema 4D, Octane Render
+**Front End Development** → HTML, CSS, JavaScript
