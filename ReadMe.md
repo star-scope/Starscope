@@ -1,5 +1,5 @@
-# CALEB FAULKNER – DESIGN TECHNOLOGIST
-## Atlanta, GA
+# HI. I'M CALEB. - STARSCOPE.ETH
+##Design Technologist in Atlanta, GA
 
 **Phone:** 404-430-7598
 
