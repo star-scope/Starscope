@@ -3,7 +3,7 @@
 
 Phone: 404-430-7598
 Email: contact@starscope.design
-Portfolio: starscope.design 
+Portfolio: starscope.design
 Password: starscop3-eth
 
 
