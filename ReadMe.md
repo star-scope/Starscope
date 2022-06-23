@@ -1,4 +1,4 @@
-# CALEB FAULKNER – PRODUCT DESIGNER
+# CALEB FAULKNER – DESIGN TECHNOLOGIST
 ## Atlanta, GA
 
 **Phone:** 404-430-7598
@@ -12,7 +12,7 @@
 
 
 ### SUMMARY
-I am a Product Designer with a background in UI, Motion Graphics, Graphic Design, 3D, and Front-End Development. 
+I am a Design Technologist with a background in UI, Motion Graphics, Graphic Design, 3D, and Front-End Development. 
 I like building cool products, and helping generate value for the people I work for.
 
 
