@@ -24,4 +24,4 @@ I like building cool products, and helping generate value for the people I work 
 
 **Motion Graphics/Interaction Design** → Adobe Creative Cloud, Cinema 4D, Octane Render
 
-**Front End Development** → HTML, CSS, JavaScript
+**Front End Development** → HTML, CSS, JavaScript, Typescript
