@@ -11,7 +11,7 @@
 
 ### SUMMARY
 I am a Design Technologist with a background in UI, Motion Graphics, Graphic Design, 3D, and Front-End Development. 
-I like building cool products, and helping generate value for the people I work for.
+I like building cool products, and generating value.
 
 
 
