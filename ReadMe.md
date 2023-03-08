@@ -1,4 +1,4 @@
-# HI. I'M CALEB. - STARSCOPE.ETH
+# Hi, I'm Caleb.
 ## Design Technologist - Atlanta, GA
 
 **Email:** contact@starscope.design
