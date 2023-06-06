@@ -1,5 +1,5 @@
 # Hi, I'm Caleb.
-## Design Technologist - Atlanta, GA
+## Software Designer - Atlanta, GA
 
 **Portfolio:** [starscope.design](https://starscope.design)
 
