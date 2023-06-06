@@ -5,8 +5,6 @@
 
 **Portfolio:** [starscope.design](https://starscope.design)
 
-**Password:** starscop3-eth
-
 
 
 ### SUMMARY
