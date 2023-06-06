@@ -1,9 +1,9 @@
 # Hi, I'm Caleb.
 ## Design Technologist - Atlanta, GA
 
-**Email:** contact@starscope.design
-
 **Portfolio:** [starscope.design](https://starscope.design)
+
+**Email:** contact@starscope.design
 
 
 
