@@ -8,7 +8,7 @@
 
 
 ### SUMMARY
-I am a Design Technologist with a background in UI, Motion Graphics, Graphic Design, 3D, and Front-End Development. 
+I am a Software Designer with a background in UI, Motion Graphics, Graphic Design, 3D, and Front-End Development. 
 I like building cool products, and generating value.
 
 
